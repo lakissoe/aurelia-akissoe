@@ -1,18 +1,50 @@
 [
     {
-        "name": "Kjeldahl-Protein analysis",
-        "image": "protein"
+        "name": "Kjeldahl-Protein analysis"
     },
     {
-        "name": "Soxhlet-Lipid analysis",
-        "image": "lipid"
+        "name": "Soxhlet-Lipid analysis"
     },
     {
-        "name": "SurveyCTO-Plateforme de collecte de données",
-        "image": "SurveyCto"
+        "name": "Chromatographie liquide (HPLC)"
     },
     {
-        "name": "Logiciel R",
-        "image": "logicielR"
+        "name": "Chromatographie ionique (HPIC)"
+    },
+    {
+        "name": "Calorimétrie Différentielle à Balayage"
+    },
+    {
+        "name": "Turboséparation - Fractionnement par voie sèche"
+    },
+    {
+        "name": "Texture Profile Analysis"
+    },
+    {
+        "name": "Kieffer rig - Mesure extensibilité"
+    },
+      {
+        "name": "Analyse sensorielle"
+    },
+    {
+        "name": "Questionnaire de Fréquence de consommation alimentaire"
+    },
+    {
+        "name": "Focus"
+    },
+    {
+        "name": "SurveyCTO-Plateforme de collecte de données d'enquêtes"
+    },
+    {
+        "name": "Logiciel XlStat"
+    },
+    {
+        "name": "Logiciel Statgraphics"
+    },
+    {
+        "name": "Logiciel R"
+    },
+    {
+        "name": "Pack office"
     }
 ]
