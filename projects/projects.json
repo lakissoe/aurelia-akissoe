@@ -1,9 +1,7 @@
 [
   {
     "name": "Projet ICOWPEA",
-    "desc": "Contribution en tant que stagiaire Master 2 : Etablissement des diagrammes d’état de l’amidon et des protéines chez les légumineuses au cours du procédé de
-            cuisson. Les légumineuses sur lesquelles les travaux ont été réalisés sont : le Niébé (Vigna
-            unguiculata) et la lentille (Lens culinaris).",
+    "desc": "Contribution en tant que stagiaire Master 2.",
     "image": "legumes1",
     "category": "Stages",
     "links": {
@@ -13,8 +11,7 @@
   },
   {
     "name": "Projet PNCA",
-    "desc": "Contribution en tant que stagiaire Master 1 : Evaluation de la biodisponibilité des acides aminés des
-            protéines de lait par méthodes isotopiques chez le rat",
+    "desc": "Contribution en tant que stagiaire Master 1",
     "image": "lait1",
     "category": "Stages",
     "links": {
