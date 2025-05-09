@@ -1,19 +1,22 @@
 [
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "notystackandroid",
-    "category": "android",
+    "name": "Projet ICOWPEA",
+    "desc": "Contribution en tant que stagiaire Master 2 : Etablissement des diagrammes d’état de l’amidon et des protéines chez les légumineuses au cours du procédé de
+            cuisson. Les légumineuses sur lesquelles les travaux ont été réalisés sont : le Niébé (Vigna
+            unguiculata) et la lentille (Lens culinaris).",
+    "image": "legumes1",
+    "category": "Stage académique",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "view": "rapportM2.pdf",
       "code": "https://github.com/jigar-sable/notystack-android"
     }
   },
   {
     "name": "SPPU Engg Prep",
-    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
-    "image": "sppuprepandroid",
-    "category": "android",
+    "desc": "Contribution en tant que stagiaire Master 1 : Evaluation de la biodisponibilité des acides aminés des
+            protéines de lait par méthodes isotopiques chez le rat",
+    "image": "lait1",
+    "category": "Stage académique",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
       "code": "https://github.com/jigar-sable/sppu-prep-android"
