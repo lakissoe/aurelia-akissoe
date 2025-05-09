@@ -1,11 +1,11 @@
 [
     {
-        "name": "ReactJS",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+        "name": "Kjeldahl-Protein analysis",
+        "icon": "https://img.directindustry.fr/images_di/photo-g/34361-12356902.webp"
     },
     {
-        "name": "ExpressJS",
-        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+        "name": "Soxhlet-Lipid analysis",
+        "icon": "https://img.medicalexpo.fr/images_me/photo-mg/301928-18277245.jpg"
     },
     {
         "name": "NodeJS",
