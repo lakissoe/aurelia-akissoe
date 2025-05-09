@@ -1,11 +1,12 @@
 [
   {
-    "name": "Projet ICOWPEA & Proveggas",
+    "name": "Projets ICOWPEA & Proveggas",
     "desc": "Contribution en tant que stagiaire Master 2.",
     "image": "legumes1",
     "category": "Stages",
     "links": {
-      "view": "https://github.com/lakissoe/Rapport-stage-M2.git"
+      "view": "https://github.com/lakissoe/Stage-M2.git",
+      "code": "#"
     }
   },
   {
@@ -14,7 +15,7 @@
     "image": "lait1",
     "category": "Stages",
     "links": {
-      "view": "#",
+      "view": "https://github.com/lakissoe/Stage-M1.git",
       "code": "#"
     }
   },
