@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Développement et Conception de nouveaux produits", "Caractérisation physicochimique des aliments", "Enquêtes nutritionnelles", "Traitement de données", "Rédaction scientifiques"],
+    strings: ["Développement et Conception de nouveaux produits", "Caractérisation physicochimique des aliments", "Enquêtes nutritionnelles", "Traitement de données", "Rédaction scientifique"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
