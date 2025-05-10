@@ -33,7 +33,8 @@
         "name": "Focus Group"
     },
     {
-        "name": "SurveyCTO-Plateforme de collecte de données d'enquêtes"
+        "name": "SurveyCTO-Collecte données d'enquêtes",
+        "icon": "https://img.icons8.com/?size=100&id=11460&format=png"
     },
     {
         "name": "Logiciel XlStat"
@@ -43,7 +44,7 @@
     },
     {
         "name": "Logiciel R",
-        "icon": "https://img.icons8.com/?size=100&id=111045&format=png"
+        "icon": "https://img.icons8.com/?size=80&id=g93RlMrIx_s4&format=png"
     },
     {
         "name": "Pack office",
