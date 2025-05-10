@@ -42,9 +42,11 @@
         "name": "Logiciel Statgraphics"
     },
     {
-        "name": "Logiciel R"
+        "name": "Logiciel R",
+        "icon": "https://img.icons8.com/?size=100&id=111045&format=png"
     },
     {
-        "name": "Pack office"
+        "name": "Pack office",
+        "icon": "https://img.icons8.com/?size=96&id=vIbsCQXkSp6l&format=png"
     }
 ]
