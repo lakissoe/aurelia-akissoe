@@ -78,6 +78,16 @@
       "view": "assets/Article_Freins_ConsoNiebe.pdf",
       "code": "#"
     }
+  },
+  {
+    "name": "Article : Impact process traditionnels",
+    "desc": "Impact procédés traditionnels de transformations des beignets de niébé sur la qualité nutritionnelle",
+    "image": "Article",
+    "category": "Publications scientifiques",
+    "links": {
+      "view": "assets/Article_ImpactProcessAta.pdf",
+      "code": "#"
+    }
   }
 
 ]
