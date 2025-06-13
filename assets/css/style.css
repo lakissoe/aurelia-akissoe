@@ -443,6 +443,7 @@ header .navbar ul li a:hover {
     margin: 0 auto;
     width: 80%;
     mix-blend-mode: normal;
+    filter: none;
   }
   .about .row {
     padding: 0.5rem;
