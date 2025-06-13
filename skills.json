@@ -24,7 +24,8 @@
         "name": "Kieffer rig - Mesure extensibilité"
     },
       {
-        "name": "Analyse sensorielle"
+        "name": "Analyse sensorielle",
+        "icon": "assets/images/skills/sensoryanalysis.png"
     },
     {
         "name": "Questionnaire de Fréquence de consommation alimentaire"
@@ -37,7 +38,8 @@
         "icon": "assets/images/skills/SurveyCto.png"
     },
     {
-        "name": "Logiciel XlStat"
+        "name": "Logiciel XlStat",
+        "icon": "assets/images/skills/Xlstat.png"
     },
     {
         "name": "Logiciel Statgraphics",
@@ -45,10 +47,10 @@
     },
     {
         "name": "Logiciel R",
-        "icon": "https://img.icons8.com/?size=80&id=g93RlMrIx_s4&format=png"
+        "icon": "assets/images/skills/logicielR.png"
     },
     {
         "name": "Pack office",
-        "icon": "https://img.icons8.com/?size=96&id=vIbsCQXkSp6l&format=png"
+        "icon": "assets/images/skills/packoffice.png"
     }
 ]
