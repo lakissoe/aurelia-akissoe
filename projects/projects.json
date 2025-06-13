@@ -50,7 +50,7 @@
     }
   },
     {
-    "name": "Article : Phytates",
+    "name": "Article : Dosage Phytates",
     "desc": "Dévéloppement méthode d'analyse de Phytates par HPLC avec une détection FLD",
     "image": "article_phytates",
     "category": "Publications scientifiques",
@@ -58,6 +58,16 @@
       "view": "assets/article_phytates.pdf",
       "code": "#"
     }
+  },
+  {
+    "name": "Article : Pâte brisée à base de légumineuses",
+    "desc": "Etude de l'impact des caractéristiques biochimique et fonctionnelles des légumineuses sur la qualité finale des pâtes brisées",
+    "image": "article_patebrisée",
+    "category": "Publications scientifiques",
+    "links": {
+      "view": "assets/articlee_patebrisee.pdf",
+      "code": "#"
+    }
   }
-
+  
 ]
