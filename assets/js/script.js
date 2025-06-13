@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Développement et Conception de nouveaux produits", "Caractérisation physicochimique des aliments", "Planification & Conduite d'enquêtes nutritionnelles", "Traitement de données nutritionnelles", "Rédaction scientifique", "Formation et encadrement stagiaires"],
+    strings: ["Développement et Conception de nouveaux produits", "Caractérisation physicochimique des aliments", "Planification et Conduite d'enquêtes", "Traitement de données nutritionnelles", "Rédaction scientifique", "Formation et encadrement stagiaires"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
