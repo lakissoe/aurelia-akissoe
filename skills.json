@@ -12,16 +12,20 @@
         "icon": "assets/images/skills/HPLC.png"
     },
     {
-        "name": "Calorimétrie Différentielle à Balayage"
+        "name": "Calorimétrie Différentielle à Balayage",
+        "icon": "assets/images/skills/DSC.png"
     },
     {
-        "name": "Turboséparation - Fractionnement par voie sèche"
+        "name": "Turboséparation - Fractionnement par voie sèche",
+        "icon": "assets/images/skills/turboseparation.png"
     },
     {
-        "name": "Texture Profile Analysis"
+        "name": "Texture Profile Analysis",
+        "icon": "assets/images/skills/TPA.png"
     },
     {
-        "name": "Kieffer rig - Mesure extensibilité"
+        "name": "Kieffer rig - Mesure extensibilité",
+        "icon": "assets/images/skills/kieffer.png"
     },
       {
         "name": "Analyse sensorielle",
@@ -31,7 +35,8 @@
         "name": "Questionnaire de Fréquence de consommation alimentaire"
     },
     {
-        "name": "Focus Group"
+        "name": "Focus Group",
+        "icon": "assets/images/skills/focus-group.png"
     },
     {
         "name": "SurveyCTO-Collecte données d'enquêtes",
