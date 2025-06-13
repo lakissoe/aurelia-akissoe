@@ -52,7 +52,7 @@
     {
     "name": "Article : Dosage Phytates",
     "desc": "Dévéloppement méthode d'analyse de Phytates par HPLC avec une détection FLD",
-    "image": "article_phytates",
+    "image": "Article",
     "category": "Publications scientifiques",
     "links": {
       "view": "assets/article_phytates.pdf",
@@ -62,12 +62,22 @@
   {
     "name": "Article : Pâte brisée à base de légumineuses",
     "desc": "Etude de l'impact des caractéristiques biochimique et fonctionnelles des légumineuses sur la qualité finale des pâtes brisées",
-    "image": "article_patebrisée",
+    "image": "Article",
     "category": "Publications scientifiques",
     "links": {
       "view": "assets/articlee_patebrisee.pdf",
       "code": "#"
     }
+  },
+  {
+    "name": "Article : Consommation plats traditionnels de niébé au Bénin",
+    "desc": "Consommation de niébé au Bénin : facteurs influençants et évolutions générationnelles, avec un petit focus sur d'autres légumineuses",
+    "image": "Article",
+    "category": "Publications scientifiques",
+    "links": {
+      "view": "assets/Article_Freins_ConsoNiebe.pdf",
+      "code": "#"
+    }
   }
-  
+
 ]
