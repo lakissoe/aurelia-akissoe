@@ -706,7 +706,7 @@ header .navbar ul li a:hover {
   justify-content: center;
 }
 .work .desc p {
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 .work .desc .btns {
   display: flex;
@@ -719,7 +719,7 @@ header .navbar ul li a:hover {
   display: inline;
   padding: 1.5rem 2.5rem;
   border-radius: 0.5rem;
-  font-size: 1.5rem;
+  font-size: 1rem;
   color: #fff;
   background: rgb(12, 12, 12);
   margin-right: 2rem;
@@ -734,7 +734,7 @@ header .navbar ul li a:hover {
 .work .viewall .btn {
   position: relative;
   line-height: 0;
-  padding: 1.6rem 3rem;
+  padding: 1rem 3rem;
   border-radius: 0.5em;
   transition: 0.5s;
   color: rgb(255, 255, 255);
@@ -745,12 +745,12 @@ header .navbar ul li a:hover {
 }
 .work .viewall .btn span {
   font-weight: 600;
-  font-size: 1.7rem;
+  font-size: 1rem;
   font-family: "Nunito", sans-serif;
 }
 .work .viewall .btn i {
   margin-left: 0.3rem;
-  font-size: 1.5rem;
+  font-size: 1rem;
   transition: 0.3s;
 }
 .work .viewall .btn:hover {
