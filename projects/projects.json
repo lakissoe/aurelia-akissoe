@@ -88,6 +88,16 @@
       "view": "assets/Article_ImpactProcessAta.pdf",
       "code": "#"
     }
+  },
+  {
+    "name": "Article : Contribution nutritionnelle niébé",
+    "desc": "Fréquences de conssommation et apports nutritionnels des plats de niébé",
+    "image": "Article",
+    "category": "Publications scientifiques",
+    "links": {
+      "view": "assets/Article_AJR_Niébé.pdf",
+      "code": "#"
+    }
   }
 
 ]

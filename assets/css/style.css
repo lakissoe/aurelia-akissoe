@@ -694,7 +694,7 @@ header .navbar ul li a:hover {
   background: #2599a1;
 }
 .work .box-container .box .content .tag h3 {
-  font-size: 2rem;
+  font-size: 1rem;
 }
 .work .box-container .box:hover .content {
   top: 25%;
