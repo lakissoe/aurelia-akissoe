@@ -116,14 +116,55 @@
 
     <div class="container">
           <div class="row" id="skillsContainer">
+</div>
+  </div>
 
-            <!-- <div class="bar">
-              <div class="info">
-                <img src="https://img.icons8.com/color/48/000000/adobe-xd.png"/>
-                <span>AdobeXD</span>
-              </div>
-            </div> -->
+</section>
 
+<script>
+  const skills = [
+    { "name": "Kjeldahl-Protein analysis", "icon": "assets/images/skills/protein.png" },
+    { "name": "Soxhlet-Lipid analysis", "icon": "assets/images/skills/lipid.png" },
+    { "name": "Chromatographie liquide (HPLC) et ionique (HPIC)", "icon": "assets/images/skills/HPLC.png" },
+    { "name": "Calorimétrie Différentielle à Balayage" },
+    { "name": "Turboséparation - Fractionnement par voie sèche" },
+    { "name": "Texture Profile Analysis" },
+    { "name": "Kieffer rig - Mesure extensibilité" },
+    { "name": "Analyse sensorielle" },
+    { "name": "Questionnaire de Fréquence de consommation alimentaire" },
+    { "name": "Focus Group" },
+    { "name": "SurveyCTO-Collecte données d'enquêtes", "icon": "assets/images/skills/SurveyCto.png" },
+    { "name": "Logiciel XlStat" },
+    { "name": "Logiciel Statgraphics", "icon": "assets/images/skills/Statgraphics.png" },
+    { "name": "Logiciel R", "icon": "assets/images/skills/logicielR.png" },
+    { "name": "Pack office", "icon": "https://img.icons8.com/?size=96&id=vIbsCQXkSp6l&format=png" }
+  ];
+   const container = document.getElementById('skillsContainer');
+
+  skills.forEach(skill => {
+    const bar = document.createElement('div');
+    bar.classList.add('bar');
+
+    const info = document.createElement('div');
+    info.classList.add('info');
+
+    if (skill.icon) {
+      const img = document.createElement('img');
+      img.src = skill.icon;
+      img.alt = skill.name + " logo";
+      img.style.width = '48px';
+      img.style.height = 'auto';
+      info.appendChild(img);
+    }
+
+    const span = document.createElement('span');
+    span.textContent = skill.name;
+
+    info.appendChild(span);
+    bar.appendChild(info);
+    container.appendChild(bar);
+  });
+</script>
       </div>
 </div>
 </section>
