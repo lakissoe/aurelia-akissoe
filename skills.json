@@ -1,13 +1,15 @@
 [
     {
-        "name": "Kjeldahl-Protein analysis"
+        "name": "Kjeldahl-Protein analysis",
+        "icon":"assets/images/skills/protein.png"
     },
     {
-        "name": "Soxhlet-Lipid analysis"
+        "name": "Soxhlet-Lipid analysis",
+        "icon": "assets/images/skills/lipid.png"
     },
     {
         "name": "Chromatographie liquide (HPLC) et ionique (HPIC)",
-        "icon": "https://img.icons8.com/?size=100&id=6434&format=png"
+        "icon": "assets/images/skills/HPLC.png"
     },
     {
         "name": "Calorimétrie Différentielle à Balayage"
