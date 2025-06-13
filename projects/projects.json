@@ -48,6 +48,16 @@
       "view": "assets/PPT_Restitutions_FANs.pdf",
       "code": "#"
     }
+  },
+    {
+    "name": "Article : Phytates",
+    "desc": "Dévéloppement méthode d'analyse de Phytates par HPLC avec une détection FLD",
+    "image": "article_phytates",
+    "category": "Publications scientifiques",
+    "links": {
+      "view": "assets/article_phytates.pdf",
+      "code": "#"
+    }
   }
 
 ]
