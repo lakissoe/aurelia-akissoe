@@ -98,6 +98,16 @@
       "view": "assets/Article_AJR_Niébé.pdf",
       "code": "#"
     }
+  },
+  {
+    "name": "Article : Diagramme de phase - Légumineuses - Co-auteure",
+    "desc": "Modélisation de la gélatinisation de l'amidon",
+    "image": "Article",
+    "category": "Publications scientifiques",
+    "links": {
+      "view": "assets/Article_lefevre.pdf",
+      "code": "#"
+    }
   }
 
 ]
