@@ -5,8 +5,7 @@
     "image": "legumes1",
     "category": "Stages",
     "links": {
-      "view": "https://github.com/lakissoe/Stage-M2.git",
-      "download": "https://github.com/lakissoe/Stage-M2/raw/main/rapport.pdf",
+      "view": "assets/RapportM2.pdf",
       "code": "#"
     }
   },
