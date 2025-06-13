@@ -444,6 +444,7 @@ header .navbar ul li a:hover {
     width: 80%;
     mix-blend-mode: normal;
     filter: none;
+    transition: none;
   }
   .about .row {
     padding: 0.5rem;
