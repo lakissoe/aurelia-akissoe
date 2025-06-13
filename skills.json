@@ -32,7 +32,8 @@
         "icon": "assets/images/skills/sensoryanalysis.png"
     },
     {
-        "name": "Questionnaire de Fréquence de consommation alimentaire"
+        "name": "Questionnaire de Fréquence de consommation alimentaire",
+        "icon": "assets/images/skills/FFQ.png"
     },
     {
         "name": "Focus Group",
