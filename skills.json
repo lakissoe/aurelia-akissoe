@@ -34,13 +34,14 @@
     },
     {
         "name": "SurveyCTO-Collecte données d'enquêtes",
-        "icon": "https://img.icons8.com/?size=100&id=11460&format=png"
+        "icon": "assets/images/skills/SurveyCto.png"
     },
     {
         "name": "Logiciel XlStat"
     },
     {
-        "name": "Logiciel Statgraphics"
+        "name": "Logiciel Statgraphics",
+        "icon": "assets/images/skills/Statgraphics.png"
     },
     {
         "name": "Logiciel R",
