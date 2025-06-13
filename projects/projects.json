@@ -6,7 +6,7 @@
     "category": "Stages",
     "links": {
       "view": "assets/RapportM2.pdf",
-      "download": "assets/PPTM2.pdf"
+      "code": "#"
     }
   },
   {
@@ -15,7 +15,7 @@
     "image": "lait1",
     "category": "Stages",
     "links": {
-      "view": "https://github.com/lakissoe/Stage-M1.git",
+      "view": "assets/RapportM1.pdf",
       "code": "#"
     }
   },
@@ -25,7 +25,7 @@
     "image": "legumes2",
     "category": "Expérience professionnelle",
     "links": {
-      "view": "https://github.com/lakissoe/Ma-th-se.git",
+      "view": "assets/2021_AKISSOE_archivage.pdf",
       "code": "#"
     }
   },
@@ -35,7 +35,7 @@
     "image": "AGAPE",
     "category": "Expériences Professionnelles",
     "links": {
-      "view": "https://github.com/lakissoe/AGAPE.git",
+      "view": "assets/PPT_Restitution_AGAPE.pdf",
       "code": "#"
     }
   },
@@ -45,7 +45,7 @@
     "image": "Nutriset",
     "category": "Expériences Professionnelles",
     "links": {
-      "view": "https://github.com/lakissoe/ProjetFan.git",
+      "view": "assets/PPT_Restitutions_FANs.pdf",
       "code": "#"
     }
   }
