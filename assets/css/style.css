@@ -821,9 +821,9 @@ header .navbar ul li a:hover {
   width: 0;
   z-index: 1;
   right: 30px;
-  border: medium solid #09f6f6;
+  border: medium solid #65b2ae;
   border-width: 10px 0 10px 10px;
-  border-color: transparent transparent transparent #09f6f6;
+  border-color: transparent transparent transparent #65b2ae;
 }
 /* arrows pointing left  */
 .experience .right::before {
@@ -834,15 +834,15 @@ header .navbar ul li a:hover {
   width: 0;
   z-index: 1;
   left: 30px;
-  border: medium solid #09f6f6;
+  border: medium solid #65b2ae;
   border-width: 10px 10px 10px 0;
-  border-color: transparent #09f6f6 transparent transparent;
+  border-color: transparent #65b2ae transparent transparent;
 }
 .experience .right::after {
   left: -16px;
 }
 .experience .content {
-  background-color: #09f6f6;
+  background-color: #65b2ae;
   position: relative;
   border-radius: 6px;
 }
