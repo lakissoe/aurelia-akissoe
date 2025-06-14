@@ -619,7 +619,7 @@ header .navbar ul li a:hover {
 }
 
 /* education media queries starts*/
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 500px) {
   .education .box-container .box {
     flex-direction: column;
     width: 100%;
