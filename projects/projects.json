@@ -55,7 +55,7 @@
     "image": "Article",
     "category": "Publications scientifiques",
     "links": {
-      "view": "assets/article_phytates.pdf",
+      "view": "https://doi.org/10.1021/acs.jafc.4c09065",
       "code": "#"
     }
   },
@@ -65,7 +65,7 @@
     "image": "Article",
     "category": "Publications scientifiques",
     "links": {
-      "view": "assets/articlee_patebrisee.pdf",
+      "view": "https://doi.org/10.1016/j.ijgfs.2025.101219",
       "code": "#"
     }
   },
@@ -75,7 +75,7 @@
     "image": "Article",
     "category": "Publications scientifiques",
     "links": {
-      "view": "assets/Article_Freins_ConsoNiebe.pdf",
+      "view": "https://doi.org/10.1002/leg3.146",
       "code": "#"
     }
   },
@@ -85,7 +85,7 @@
     "image": "Article",
     "category": "Publications scientifiques",
     "links": {
-      "view": "assets/Article_ImpactProcessAta.pdf",
+      "view": "https://doi.org/10.1016/j.jfca.2020.103753",
       "code": "#"
     }
   },
@@ -95,17 +95,7 @@
     "image": "Article",
     "category": "Publications scientifiques",
     "links": {
-      "view": "assets/Article_AJR_Niébé.pdf",
-      "code": "#"
-    }
-  },
-   {
-    "name": "Article : Diagramme de phase - Légumineuses - Co-auteure",
-    "desc": "Modélisation de la gélatinisation de l'amidon",
-    "image": "Article",
-    "category": "Publications scientifiques",
-    "links": {
-      "view": "assets/Article_lefevre.pdf",
+      "view": "https://doi.org/10.3390/nu15061314",
       "code": "#"
     }
   }
