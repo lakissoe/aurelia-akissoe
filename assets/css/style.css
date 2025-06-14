@@ -382,8 +382,8 @@ header .navbar ul li a:hover {
   font-size: 2.5rem;
 }
 .about .row .content .tag {
-  font-size: 2.2rem;
-  color: #2825b9;
+  font-size: 1.7rem;
+  color: #011aff;
   font-weight: 600;
   margin-top: 1rem;
 }
@@ -421,12 +421,12 @@ header .navbar ul li a:hover {
 }
 .resumebtn .btn span {
   font-weight: 600;
-  font-size: 2.2rem;
+  font-size: 3.2rem;
   letter-spacing: 0.1rem;
 }
 .resumebtn .btn i {
   margin-left: 0.3rem;
-  font-size: 2.2rem;
+  font-size: 3.2rem;
   transition: 0.3s;
 }
 .resumebtn .btn:hover {
