@@ -5,8 +5,7 @@
     "image": "legumes1",
     "category": "Stages",
     "links": {
-      "view": "assets/RapportM2.pdf",
-      "code": "#"
+      "view": "assets/RapportM2.pdf"
     }
   },
   {
@@ -15,8 +14,7 @@
     "image": "lait1",
     "category": "Stages",
     "links": {
-      "view": "assets/RapportM1.pdf",
-      "code": "#"
+      "view": "assets/RapportM1.pdf"
     }
   },
   {
@@ -25,8 +23,7 @@
     "image": "legumes2",
     "category": "Expérience professionnelle",
     "links": {
-      "view": "assets/2021_AKISSOE_archivage.pdf",
-      "code": "#"
+      "view": "assets/2021_AKISSOE_archivage.pdf"
     }
   },
   {
@@ -35,8 +32,7 @@
     "image": "AGAPE",
     "category": "Expériences Professionnelles",
     "links": {
-      "view": "assets/PPT_Restitution_AGAPE.pdf",
-      "code": "#"
+      "view": "assets/PPT_Restitution_AGAPE.pdf"
     }
   },
   {
@@ -45,8 +41,7 @@
     "image": "Nutriset",
     "category": "Expériences Professionnelles",
     "links": {
-      "view": "assets/PPT_Restitutions_FANs.pdf",
-      "code": "#"
+      "view": "assets/PPT_Restitutions_FANs.pdf"
     }
   },
     {
@@ -55,8 +50,7 @@
     "image": "Article",
     "category": "Publications scientifiques",
     "links": {
-      "view": "https://doi.org/10.1021/acs.jafc.4c09065",
-      "code": "#"
+      "view": "https://doi.org/10.1021/acs.jafc.4c09065"
     }
   },
   {
@@ -65,8 +59,7 @@
     "image": "Article",
     "category": "Publications scientifiques",
     "links": {
-      "view": "https://doi.org/10.1016/j.ijgfs.2025.101219",
-      "code": "#"
+      "view": "https://doi.org/10.1016/j.ijgfs.2025.101219"
     }
   },
   {
@@ -75,8 +68,7 @@
     "image": "Article",
     "category": "Publications scientifiques",
     "links": {
-      "view": "https://doi.org/10.1002/leg3.146",
-      "code": "#"
+      "view": "https://doi.org/10.1002/leg3.146"
     }
   },
   {
@@ -94,8 +86,7 @@
     "image": "Article",
     "category": "Publications scientifiques",
     "links": {
-      "view": "https://doi.org/10.3390/nu15061314",
-      "code": "#"
+      "view": "https://doi.org/10.3390/nu15061314"
     }
   }
 
