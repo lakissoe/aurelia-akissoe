@@ -84,7 +84,7 @@ section {
   text-align: center;
 }
 .heading span {
-  color: #22a8b1;
+  color: #179a7b;
 }
 header .logo {
   font-size: 1.5rem;
@@ -96,7 +96,7 @@ header .logo i {
   font-size: 2.2rem;
 }
 header .logo:hover {
-  color: #22a8b1;
+  color: #179a7b;
 }
 header .navbar ul {
   list-style: none;
