@@ -20,7 +20,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio Lorène AKISSOE";
+            document.title = "Projects | Portfolio Aurélia AKISSOE";
             $("#favicon").attr("href", "/assets/images/favicon.png");
         }
         else {
