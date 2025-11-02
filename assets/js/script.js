@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Etude impact process sur la qualité nutritionnelle et organoleptique","Formulation de nouveaux produits", "Caractérisation physicochimique des aliments", "Planification et Conduite d'enquêtes", "Traitement de données nutritionnelles", "Rédaction scientifique", "Communication et vulgarisation scientifique", "Veille scientique et technologique", "Formation et encadrement stagiaires"],
+    strings: ["Stratégie de marque","Markéting d'influence et réseaux sociaux", "Veille permanente du marché", "Modèles de communication durables", "Analyse des tendances du marché", "Rédaction", "Conduite de campagnes"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
