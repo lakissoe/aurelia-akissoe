@@ -1,15 +1,15 @@
 [
     {
-        "name": "Analyse micronutriments, macronutriments et facteurs antinutritionnels", 
-        "icon": "assets/images/skills/foodlab.png"
+        "name": "Stratégie de communication et marketing multicanal", 
+        "icon": "assets/images/skills/strategie.png"
     },
     {
-        "name": "Mesure propriétés fonctionnelles des protéines végétales", 
-        "icon": "assets/images/skills/propriete_fonctionnelle.png"
+        "name": "Gestion et animation des réseaux sociaux", 
+        "icon": "assets/images/skills/socialmedia.png"
     },
      {
-        "name": "Analyse sensorielle",
-        "icon": "assets/images/skills/sensoryanalysis.png"
+        "name": "Rédaction de contenus (articles, posts, communiqués de presse)",
+        "icon": "assets/images/skills/copywriting.png"
     },
     {
         "name": "Formulation et Etude des intéractions entre produits et procédés", 
