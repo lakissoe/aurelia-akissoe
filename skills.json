@@ -7,7 +7,7 @@
         "name": "Gestion et animation des réseaux sociaux", 
         "icon": "assets/images/skills/socialmedia.png"
     },
-     {
+    {
         "name": "Rédaction de contenus (articles, posts, communiqués de presse)",
         "icon": "assets/images/skills/copywriting.png"
     },
@@ -67,5 +67,5 @@
         "name": "Création d’identité de marque et storytelling",
         "icon": "assets/images/skills/branding.png"
     }
-    
+
 ]
