@@ -30,63 +30,18 @@
     "name": "Gestion de la page Tiktok – Le Brunch",
     "desc": "Freelance – Community Management",
     "image": "brunch3",
-    "category": "Expériences Professionnelles",
+    "category": "Expériences Professionnelle",
     "links": {
-      "view": "assets/PPT_Restitution_AGAPE.pdf"
+      "view": "https://www.tiktok.com/@le.brunch0"
     }
   },
   {
-    "name": "Projet FAN",
-    "desc": "Contribution en tant que Chargée de projet en biochimie & sciences des aliments",
-    "image": "Nutriset",
-    "category": "Expériences Professionnelles",
+    "name": "Organisation d'évenements sportifs - Le Brunch",
+    "desc": "Freelance – Community Management",
+    "image": "fit",
+    "category": "Expériences Professionnelle",
     "links": {
-      "view": "assets/Synthese_FANs_Portfolio.pdf"
-    }
-  },
-    {
-    "name": "Article : Dosage Phytates",
-    "desc": "Dévéloppement méthode d'analyse de Phytates par HPLC avec une détection FLD",
-    "image": "Article",
-    "category": "Publications scientifiques",
-    "links": {
-      "view": "https://doi.org/10.1021/acs.jafc.4c09065"
-    }
-  },
-  {
-    "name": "Article : Pâte brisée à base de légumineuses",
-    "desc": "Etude de l'impact des caractéristiques biochimique et fonctionnelles des légumineuses sur la qualité finale des pâtes brisées",
-    "image": "Article",
-    "category": "Publications scientifiques",
-    "links": {
-      "view": "https://doi.org/10.1016/j.ijgfs.2025.101219"
-    }
-  },
-  {
-    "name": "Article : Consommation Niébé",
-    "desc": "Consommation de niébé au Bénin : facteurs influençants et évolutions générationnelles, avec un petit focus sur d'autres légumineuses",
-    "image": "Article",
-    "category": "Publications scientifiques",
-    "links": {
-      "view": "https://doi.org/10.1002/leg3.146"
-    }
-  },
-  {
-    "name": "Article : Impact process traditionnels",
-    "desc": "Impact procédés traditionnels de transformations des beignets de niébé sur la qualité nutritionnelle",
-    "image": "Article",
-    "category": "Publications scientifiques",
-    "links": {
-      "view": "https://doi.org/10.1016/j.jfca.2020.103753"
-    }
-  },
-  {
-    "name": "Article : Contribution nutritionnelle niébé",
-    "desc": "Fréquences de conssommation et apports nutritionnels des plats de niébé",
-    "image": "Article",
-    "category": "Publications scientifiques",
-    "links": {
-      "view": "https://doi.org/10.3390/nu15061314"
+      "view": "assets/fitbrunch.pdf"
     }
   }
 
