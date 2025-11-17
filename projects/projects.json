@@ -9,12 +9,12 @@
     }
   },
   {
-    "name": "Projet PNCA",
-    "desc": "Contribution en tant que stagiaire Master 1",
-    "image": "lait1",
-    "category": "Stages",
+    "name": "Gestion de la page Facebook – Le Brunch",
+    "desc": "Freelance – Community Management",
+    "image": "brunch2",
+    "category": "Expérience professionnelle",
     "links": {
-      "view": "assets/RapportM1.pdf"
+      "view": "https://www.facebook.com/share/17aLf885T8/"
     }
   },
   {
@@ -27,9 +27,9 @@
     }
   },
   {
-    "name": "Projet AGAPE",
-    "desc": "Contribution en tant que Chargée de projet R&D Innovation Produits",
-    "image": "AGAPE",
+    "name": "Gestion de la page Tiktok – Le Brunch",
+    "desc": "Freelance – Community Management",
+    "image": "brunch3",
     "category": "Expériences Professionnelles",
     "links": {
       "view": "assets/PPT_Restitution_AGAPE.pdf"
