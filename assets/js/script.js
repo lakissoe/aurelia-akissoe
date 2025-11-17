@@ -59,12 +59,12 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Lorène AKISSOE";
-            $("#favicon").attr("href", "assets/images/favicon.png");
+            document.title = "Portfolio | Aurélia AKISSOE";
+            $("#favicon").attr("href", "assets/images/digital marketing2.png");
         }
         else {
             document.title = "Come Back To Portfolio";
-            $("#favicon").attr("href", "assets/images/food scientist.png");
+            $("#favicon").attr("href", "assets/images/digital marketing.png");
         }
     });
 

@@ -21,11 +21,11 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Projects | Portfolio Aurélia AKISSOE";
-            $("#favicon").attr("href", "/assets/images/favicon.png");
+            $("#favicon").attr("href", "/assets/images/digital marketing2.png");
         }
         else {
             document.title = "Come Back To Portfolio";
-            $("#favicon").attr("href", "/assets/images/digital marketin.png");
+            $("#favicon").attr("href", "/assets/images/digital marketing.png");
         }
     });
 
