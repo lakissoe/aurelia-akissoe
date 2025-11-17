@@ -1,11 +1,11 @@
 [
   {
-    "name": "Projets ICOWPEA & Proveggas",
-    "desc": "Contribution en tant que stagiaire Master 2.",
-    "image": "legumes1",
+    "name": "Étude de l’engagement social dans une émission de téléréalité",
+    "desc": "Contribution en tant que stagiaire",
+    "image": "plusbelle",
     "category": "Stages",
     "links": {
-      "view": "assets/RapportM2.pdf"
+      "view": "assets/Stage de fin de licence.pdf"
     }
   },
   {
@@ -18,12 +18,14 @@
     }
   },
   {
-    "name": "Projet TransNut Niébé",
-    "desc": "Ma thèse",
-    "image": "legumes2",
-    "category": "Expérience professionnelle",
-    "links": {
-      "view": "assets/2021_AKISSOE_archivage.pdf"
+  "name": "Gestion des réseaux sociaux – Le Brunch",
+  "desc": "Freelance – Community Management",
+  "image": "brunch",
+  "category": "Expérience professionnelle",
+  "links": {
+    "instagram": "https://www.instagram.com/le_brunch229",
+    "facebook": "https://www.facebook.com/share/17aLf885T8/",
+    "tiktok": "https://www.tiktok.com/@le.brunch0"
     }
   },
   {
